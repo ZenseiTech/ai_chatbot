@@ -1,0 +1,18 @@
+{"intents": [
+    {
+        "tag": "greetings",
+        "patterns": ["Hello", "Hi"],
+        "responses": ["Hi there", "What's up"]
+    },
+    {
+        "tag": "name",
+        "patterns": ["What is your name", "Can you tell me your name"],
+        "responses": ["I am chabot", "I am a helper"]
+    },
+    {
+        "tag": "helper",
+        "patterns": ["Can you help", "Any help"],
+        "responses": ["Sure. What do you need", "I am here to help"]
+    }
+
+]}
